@@ -1,0 +1,1767 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : CExcel
+ major_version : 28
+ minor_version : 0
+ type : 4
+ description : ""
+ subtype : 0
+class :
+ identifier : 0x3adbf68d2169fc84
+ internal_properties : CAAAAAgAAAB2/vstTMCJbS/hlxjFxirSqKvCUuv8YxgpWyl7S3iA
+ code_elements :
+  internal_properties : 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
+  type_code : 10
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABDNRqBDcs3xk+cD8qkbwBJI338zEiNk3vfkjOAWAWvv8FsbthD4FE9uPPzBIimbb53mmpgoHQKLPZVQHUIyLZMhfkMcw2kIADcxnpUvkpwAuNRkKvCYy6vuOClPD/Zb1xt/f+JKvwmKiyOv+Q=
+     code : |1+
+      CExcel est une Classe
+      	m_pautExcel est un objet ole dynamique	// Pointeur sur objet actif
+      	m_nVersion est un entier  		// Version de Excel installée sur le poste
+      	m_sClasseurEnCours est une chaine	// nom du classeur en cours
+      Fin
+      
+      CONSTANT
+      	CST_GAUCHE = 1
+      	CST_CENTRE = 2
+      	CST_DROITE = 3
+      fin
+      
+     type : 131072
+   -
+     code : |1-
+      
+     type : 131074
+  procedures :
+   -
+     name : Constructeur
+     internal_properties : CAAAAAgAAADGvUC8o5bE4ZWUCRF2bvM/ZqKsuG28Y2Ke5rAWgfTEV3ux6Ig8ShonDFX36i+CqbpXfsLShRyznm8cRly9Mwgf3fGK7Uu8dIsK59+efwyoFSPNQ/H7RMZefy0sgQUBhuwKpPDMdx5tO+ASHapQ7mnAgMdcpMWWHTf7o81mxJmbJExJWhqa8F/ktJvXoiSghMZ0vCKXRg1g/sXWaJoOUmxJHJsXmwVdWizuM8JFNSharH+su8aL/1W7+HJnaQ/jQJQ4XNuhy9yALCtGIcopqxE=
+     procedure_id : 4241254560529448078
+     type_code : 27
+     code : |1-
+      Procédure Constructeur(bRecycle=faux)
+      // si bRecycle=Vrai, on réutilise le Excel qui est déjà ouvert
+      
+      // on teste la présence de Excel et on récupère sa version
+      nVersion EST UN entier
+      nVersion = :nVersionOffice("Excel")
+      SI nVersion = 0 ALORS
+      	finprogramme(<§$0000§>)
+      	RETOUR
+      FIN
+      SI nVersion < 8 ALORS
+      	finprogramme(<§$0001§>)
+      	RETOUR	
+      FIN
+      
+      // version de Excel
+      :m_nVersion = nVersion
+      
+      // si Excel n'est pas déja alloué
+      si :m_pautExcel = NULL alors
+      	// si l'utilisateur veut réutiliser le Excel déjà ouvert
+      	si bRecycle alors
+      		:m_pautExcel = objetactif("Excel.Application")
+      		si :m_pautExcel = NULL alors
+      			// il n'y avait aucun Excel déjà ouvert, on en alloue un 
+      			:m_pautExcel = allouer un objet ole "Excel.Application"
+      		FIN
+      	sinon
+      		// on en alloue un nouveau
+      		:m_pautExcel = allouer un objet ole "Excel.Application"
+      	fin
+      FIN
+      
+      // Rendre visible
+      :m_pautExcel>>visible=Vrai
+     type : 589824
+   -
+     name : Destructeur
+     procedure_id : 4241254559840140430
+     type_code : 28
+     code : |1+
+      PROCEDURE Destructeur()
+      
+      SI :m_pautExcel<>Null ALORS
+      	:Quitter()
+      	Multitache(-10)
+      	
+      	// on libère le pointeur
+      	libérer :m_pautExcel
+      fin
+     type : 655360
+   -
+     name : AjouterFeuille
+     procedure_id : 4241254560110935202
+     type_code : 12
+     code : |1+
+      // Résumé : Ajoute une feuille dans le classeur
+      // Syntaxe :
+      // AjouterFeuille ( [<sNomFeuille>])
+      //
+      // Paramètres :
+      // 	sNomFeuille : Nom à donner à la nouvelle feuille
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure AjouterFeuille(sNomFeuille="")
+      
+      QUAND EXCEPTION dans
+      	//Ajouter une feuille dans le classeur
+      	:m_pautExcel>>Sheets>>Add()
+      faire
+      	:msgerreur(<§$0002§>,ExceptionInfo())
+      	RETOUR
+      FIN
+      
+      // Renommage si nécessaire
+      si sNomFeuille<>"" alors
+      	:RenommerFeuille(sNomFeuille)
+      FIN
+      
+     type : 458752
+   -
+     name : AjouterGraphe
+     procedure_id : 4241254560616283328
+     type_code : 12
+     code : |1+
+      // Résumé : Permet de créer un graphe
+      // Syntaxe :
+      // AjouterGraphe ( [<sPlage> [, <sType> [, <sTitre> [, <bLegende>]]]])
+      //
+      // Paramètres :
+      // 	sPlage : Plage de cellule à sélectionner (peut être vide si des cellules sont déjà sélectionnées)
+      // 	sType (valeur par défaut="HISTO") : Type de graphe : HISTO, COURBE, SECTEUR
+      // 	sTitre : Nom du graphe (facultatif)
+      // 	bLegende (valeur par défaut=0) : à vrai si on veut la légende (les données sont récupérer dans la plage de cellules)
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure AjouterGraphe(sPlage="", sType="HISTO", sTitre="", bLegende=faux)
+      
+      
+      si sPlage<>"" alors
+      	// Sélection de la plage de cellules
+      	:SelectionnerCellules(sPlage)
+      fin
+      
+      quand exception dans
+      	// ajout d'un graphe
+      	:m_pautExcel>>Charts>>Add()
+      	
+      	// type histogramme
+      	:m_pautExcel>>ActiveChart>>ChartType = :nTypeGraphe(sType)
+      	
+      faire
+      	:msgerreur(<§$0003§>, ExceptionInfo())
+      	retour
+      fin
+      
+      QUAND Exception dans	
+      	// graphe dans nouvelle feuille (1er paramètre : xlLocationAsObject = 2)
+      	:m_pautExcel>>ActiveChart>>Location(2, :m_pautExcel>>ActiveSheet>>Name) 
+      FAIRE
+      	// Erreur non fatale
+      fIN
+      
+      quand exception dans	
+      	// si un titre est précisé
+      	si sTitre<>"" alors
+      		:m_pautExcel>>ActiveChart>>HasTitle = vrai
+      		:m_pautExcel>>ActiveChart>>ChartTitle>>Characters>>Text = sTitre
+      	sinon
+      		:m_pautExcel>>ActiveChart>>HasTitle = faux
+      	fin
+      	
+      	// pas de légende
+      	si bLegende alors
+      		:m_pautExcel>>ActiveChart>>HasLegend = vrai
+      	sinon
+      		:m_pautExcel>>ActiveChart>>HasLegend = faux
+      	FIN
+      
+      faire
+      	:msgerreur(<§$0003§>, ExceptionInfo())
+      	retour
+      fin
+      
+     type : 458752
+   -
+     name : Aligner
+     procedure_id : 4241254572736710861
+     type_code : 12
+     code : |1-
+      // Résumé : Applique un alignement horizontal à la cellule sélectionnée ou à une plage de cellules
+      // Syntaxe :
+      //Aligner (<nAlignement> [, <sPlage>])
+      //
+      // Paramètres :
+      //	nAlignement : Alignement souhaité 
+      //	sPlage (valeur par défaut="") : Plage de cellules à sélectionner (facultatif). Si elle n'est pas précisée, ce sera la sélection en cours
+      // Valeur de retour :
+      // 	Aucune
+      
+      procédure Aligner(nAlignement, sPlage="")
+      
+      // on sélectionne la plage demandée
+      si sPlage<>"" alors
+      	:SelectionnerCellules(sPlage)
+      fin
+      
+      // on vérifie la sélection
+      quand exception dans
+      	:m_pautExcel>>Selection
+      FAIRE
+      	info(<§$0004§>)
+      	retour
+      FIN
+      
+      nAlignConstante est un entier 
+      selon nAlignement
+      	cas CST_GAUCHE
+      		nAlignConstante = -4131 //xlLeft
+      	cas cst_centre
+      		nAlignConstante = -4108 //xlCenter
+      	cas cst_droite
+      		nAlignConstante = -4152 //xlRight
+      	autre cas 
+      		nAlignConstante = -4131 //xlLeft
+      fin					
+      	
+      quand exception dans 
+      	// on réalise l'alignement demandé	
+      	:m_pautExcel>>Selection>>HorizontalAlignment = nAlignConstante	
+      FAIRE
+      	:msgerreur(<§$0005§>, ExceptionInfo())
+      	rETOUR
+      FIN
+     type : 458752
+   -
+     name : Coller
+     procedure_id : 4241254572618549523
+     type_code : 12
+     code : |1+
+      // Résumé : Coller dans une cellule ou un ensemble de cellules
+      // Syntaxe :
+      // Coller ( [<sCellule>])
+      //
+      // Paramètres :
+      // 	sCellule : Cellule en haut à gauche de la zone de destination (facultatif). Si elle n'est pas précisée, ce sera la sélection en cours
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure Coller(sCellule="")
+      
+      // sélection de la cellule
+      si sCellule<>"" alors
+      	:SelectionnerCellules(sCellule)
+      fin
+      
+      quand exception dans 
+      	// coller dans la zone
+      	:m_pautExcel>>ActiveSheet>>Paste()
+      FAIRE
+      		RETOUR
+      FIN
+      
+      
+     type : 458752
+   -
+     name : Copier
+     procedure_id : 4241254573159549323
+     type_code : 12
+     code : |1-
+      // Résumé : Copie d'une cellule ou d'un ensemble de cellules
+      // Syntaxe :
+      // Copier ( [<sPlage>])
+      //
+      // Paramètres :
+      // 	sPlage : Zone à copier (facultatif). Si elle n'est pas précisée, ce sera la sélection en cours
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure Copier(sPlage="")
+      
+      // sélection de la plage de cellules
+      si sPlage<>"" alors
+      	:SelectionnerCellules(sPlage)
+      fin
+      
+      quand exception dans
+      	// copier de la zone
+      	:m_pautExcel>>Selection>>Copy()
+      faire
+      	RETOUR
+      fin
+     type : 458752
+   -
+     name : Couleur
+     procedure_id : 4241254573865961897
+     type_code : 12
+     code : |1+
+      // Résumé : Applique une couleur de texte et/ou de fond à une cellule ou un ensemble de cellules
+      // Syntaxe :
+      //Couleur ( [<sCouleurTexte> [, <sCouleurFond> [, <sPlage>]]])
+      //
+      // Paramètres :
+      //	sCouleurTexte (valeur par défaut="") : Couleur désirée pour le texte (facultatif) : AUCUN, NOIR, ROUGE, VERT, BLEU, JAUNE
+      //	sCouleurFond (valeur par défaut="") : Couleur désirée pour le fond de cellule (facultatif) : AUCUN, NOIR, ROUGE, VERT, BLEU, JAUNE
+      //	sPlage (valeur par défaut="") : Plage de cellules à sélectionner (facultatif). Si elle n'est pas précisée, ce sera la sélection en cours
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure Couleur(nCouleurTexte = -1, nCouleurFond = -1, sPlage="")
+      
+      // Sélection de la cellule
+      si sPlage<>"" alors
+      	:Selectionnercellules(sPlage)
+      FIN
+      
+      // on vérifie la sélection
+      quand exception dans
+      	:m_pautExcel>>Selection
+      FAIRE
+      	info(<§$0004§>)
+      	retour
+      FIN
+      
+      quand exception dans
+      	// couleur de police
+      	SI nCouleurTexte<>-1 ALORS
+      		:m_pautExcel>>Selection>>Font>>Color = nCouleurTexte
+      	FIN
+      	
+      	// couleur de fond
+      	SI nCouleurFond<> -1 ALORS
+      		:m_pautExcel>>Selection>>Interior>>Color = nCouleurFond
+      	FIN
+      	
+      	
+      faire
+      	:msgerreur(<§$0006§>,ExceptionInfo())
+      	RETOUR
+      fin
+      
+     type : 458752
+   -
+     name : Couper
+     procedure_id : 4241254574345685467
+     type_code : 12
+     code : |1+
+      // Résumé : Effectue un "Couper" sur une cellule ou un ensemble de cellules
+      // Syntaxe :
+      // Couper ( [<sPlage>])
+      //
+      // Paramètres :
+      // 	sPlage : Zone à copier(facultatif). Si elle n'est pas précisée, ce sera la sélection en cours
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure Couper(sPlage="")
+      
+      // sélection de la plage de cellules
+      si sPlage<>"" alors
+      	:SelectionnerCellules(sPlage)
+      fin
+      
+      quand exception dans 
+      	// couper de la zone
+      	:m_pautExcel>>Selection>>Cut()
+      FAIRE
+      	retour
+      FIN
+     type : 458752
+   -
+     name : DeplacerFeuille
+     procedure_id : 4241254573929400825
+     type_code : 12
+     code : |1-
+      // Résumé : Déplace une feuille donnée à la position souhaitée
+      // Syntaxe :
+      // DeplacerFeuille (<sFeuille>, <nPosition>)
+      //
+      // Paramètres :
+      // 	sFeuille : Nom de la feuille à déplacer
+      // 	nPosition : Position de destination
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure DeplacerFeuille(sFeuille, nPosition)
+      
+      QUAND EXCEPTION dans
+      	// on déplace la feuille demandée après l'onglet <nPosition>
+      	:m_pautExcel>>Sheets(sFeuille)>>Move(:m_pautExcel>>Sheets(nPosition))
+      faire
+      	:msgerreur(<§$0007§>,ExceptionInfo())
+      	RETOUR
+      FIN
+     type : 458752
+   -
+     name : EcrireValeur
+     internal_properties : CAAAAAgAAACqpwl+vsfLa21Uxms/ZloZZdOtW7+/fXZ1KW1JCaXH+HwyxmzoaZuiWJ3NO4nIlkk6YZVvYVylfjRnHpQNzz9+HpLlaLO13vMIil9ZEptXfcg0HeGclXsqlZlyWAWuMm3DYrkOa6OKg6CMFOFzr6tD11C+YeuDf6aMh58=
+     procedure_id : 4241254572494359063
+     type_code : 12
+     code : |1-
+      // Résumé : Permet d'écrire une valeur dans une cellule
+      // Syntaxe :
+      // EcrireValeur (<sCellule>, <sValeur>)
+      //
+      // Paramètres :
+      // 	sCellule : Cellule dans laquelle on veut écrire
+      // 	sValeur : Valeur à écrire
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure EcrireValeur(sCellule, sValeur)
+      
+      
+      // pour éviter que Excel se mette en erreur
+      QUAND EXCEPTION dans
+      	// Ecrire une valeur dans la cellule passée en paramètre
+      	:m_pautExcel>>Range(sCellule)>>Value = sValeur
+      faire
+      	:msgerreur(<§$0008§>,ExceptionInfo())
+      	RETOUR
+      FIN
+     type : 458752
+   -
+     name : Enregistrer
+     internal_properties : CAAAAAgAAACDU+wd79VgohPNYnkxR0IfqCsy74aY1iV8RnyaVvRN3ubaN33bUpwhHkjmLbpHtDvuY2J5VrC92qK39ffayHCPEiI5VeVo3rKxjFd6DPQ4qkzQ01SGrGdp2jmWFbuDK/LXsn4vtLnRw8pBdx3yzSmz6Kcdv4dpfE9L5w==
+     procedure_id : 4241254574033340971
+     type_code : 12
+     code : |1+
+      // Résumé : Enregistre le classeur en cours
+      // Syntaxe :
+      // Enregistrer ( [<sNomClasseur>])
+      //
+      // Paramètres :
+      // 	sNomClasseur : Nom désiré pour le classeur (facultatif)
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure Enregistrer(sNomClasseur="")
+      
+      // si on n'a pas de document en cours
+      si (:m_sClasseurEnCours~="" et sNomClasseur="") alors
+      	:EnregistrerSous()
+      sinon
+      	quand exception dans
+      		// on sauve le document
+      		si sNomClasseur<>"" alors
+      			// 2ème paramètre xlNormal = -4143 (format Excel classique)
+      			:m_pautExcel>>ActiveWorkbook>>SaveAs(sNomClasseur,-4143)
+      			:m_sClasseurEnCours=sNomClasseur
+      		sinon
+      			// 2ème paramètre xlNormal = -4143 (format Excel classique)
+      			:m_pautExcel>>ActiveWorkbook>>SaveAs(:m_sClasseurEnCours,-4143) 
+      		fin
+      	faire
+      		// Cas où l'utilisateur n'est pas sorti de la saisie en cours
+      		si ChaîneOccurrence(ExceptionInfo(), "80010001")>0 ALORS
+      			info(<§$0009§>)
+      		sinon
+      			:msgerreur(<§$000a§>,ExceptionInfo())
+      		fin
+      		retour
+      	fin
+      fin
+      
+     type : 458752
+   -
+     name : EnregistrerSous
+     internal_properties : CAAAAAgAAAAVqXaHyiYE3kfxrt1dG46DzGceS/oAp5hY1gT2ftRFZnparxHjMuwV8vg2UXKPHDNC42olVqitzrafbZuyWtZ1eJSv51vi1IB3/n2MEv5W6GqS4R48Jt3/EPPUR+k9EfjFLM1TjIGhGxoxBw3ixeGTQCfFj4rzFunRfQ==
+     procedure_id : 4241254572588141209
+     type_code : 12
+     code : |1+
+      // Résumé : Enregistrer, avec sélecteur
+      // Syntaxe :
+      // EnregistrerSous ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure EnregistrerSous()
+      
+      sNomClasseur EST UNE CHAINE=""
+      
+      // Sélection ou création d'un fichier Excel
+      sNomClasseur=fSélecteur("","",<§$000b§>,...
+      						<§$000c§>+TAB+"*.XLS","XLS",...
+      						FSelCrée+FSelExiste)
+      
+      // Aucun fichier sélectionné
+      SI sNomClasseur="" ALORS RETOUR
+      
+      // On sauve le document
+      :Enregistrer(sNomClasseur)
+      
+     type : 458752
+   -
+     name : FermerClasseur
+     internal_properties : CAAAAAgAAABvKH9jLwoUu4cimO6pcsiWoacrOM57VoYmo0JvJh3+yksZcjSBea6yeYRHjDNieNUPD8B3xAY9Knu3VJAsQdWxWSeZrhnC8j/ujDqXRmvhXrljPem7q+2bS1ry5rl2GiEdF0ADhTJz
+     procedure_id : 4241254573124225739
+     type_code : 12
+     code : |1+
+      // Résumé : Ferme le document actif
+      // Syntaxe :
+      // FermerClasseur ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure FermerClasseur()
+      
+      // pour éviter que Excel se mette en erreur
+      QUAND EXCEPTION dans
+      	// on ferme le classeur actif
+      	:m_pautExcel>>ActiveWorkbook>>Close(faux)
+      	
+      	// il n'y a plus de classeur en cours
+      	:m_sClasseurEnCours=""
+      faire
+      	:msgerreur(<§$000d§>,ExceptionInfo())
+      	retour
+      FIN
+      
+     type : 458752
+   -
+     name : Format
+     internal_properties : CAAAAAgAAABNP2I9N/J5EC5YzNUYMH5vO7Hi5d25mDHHvLa4eH2bezoT+MC9WN0UKdKXVniQrOu74H1RAQiK0XYPZsusb5w4wp5EWEp6iQALNsZAzv3SmU4Ixv2G+VByNmZssXt2kWrRhyFe6g==
+     procedure_id : 4241254577578380009
+     type_code : 12
+     code : |1-
+      // Résumé : Permet d'appliquer un format de cellule à une cellule ou un ensemble de cellules
+      // Syntaxe :
+      // Format (<sFormatCellule> [, <sPlage>])
+      //
+      // Paramètres :
+      // 	sFormatCellule : Format à appliquer : NOMBRE, DATE, HEURE, monétaire, POURCENTAGE
+      // 	sPlage : Plage de cellules à sélectionner(facultatif). Si elle n'est pas précisée, ce sera la sélection en cours
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure Format(sFormatCellule, sPlage="")
+      
+      // sélection de la plage de cellule
+      si sPlage<>"" alors
+      	:SelectionnerCellules(sPlage)
+      FIN
+      
+      // on vérifie la sélection
+      quand exception dans
+      	:m_pautExcel>>Selection
+      FAIRE
+      	// il n'y a plus de classeur en cours
+      	:m_sClasseurEnCours=""
+      	info(<§$0004§>)
+      	retour
+      FIN
+      
+      sFormat est une chaine
+      selon majuscule(sFormatCellule)
+      	cas "NOMBRE"
+      		sFormat = "0,00"
+      	cas "DATE"
+      		sFormat = "j mmmm aaaa"
+      	cas "HEURE"
+      		sFormat = "h:mm:ss"
+      	cas "MONETAIRE"
+      		sFormat = "#,##00 €"
+      	cas "POURCENTAGE"
+      		sFormat = "0,00%"
+      	autre cas 
+      		sFormat = "@"
+      fin
+      
+      quand exception dans
+      	// on met au format voulu
+      	:m_pautExcel>>Selection>>NumberFormat = sFormat
+      FAIRE
+      	:msgerreur(<§$000e§>,ExceptionInfo())
+      	retour
+      FIN
+     type : 458752
+   -
+     name : FusionnerCellules
+     procedure_id : 4241254578143497018
+     type_code : 12
+     code : |1+
+      // Résumé : Fusionne les cellules sélectionnées
+      // Syntaxe :
+      // FusionnerCellules ( [<sPlage>])
+      //
+      // Paramètres :
+      // 	sPlage : Plage de cellules à fusionner (facultatif). Si elle n'est pas précisée, ce sera la sélection en cours
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure FusionnerCellules(sPlage="")
+      
+      si sPlage<>"" alors
+      	// sélection de la plage de cellules
+      	:SelectionnerCellules(sPlage)
+      fin
+      
+      // on vérifie la sélection
+      quand exception dans
+      	:m_pautExcel>>Selection
+      FAIRE
+      	info(<§$0004§>)
+      	retour
+      FIN
+      
+      quand exception dans
+      	// Fusionne verticalement ou horizontalement les cellules sélectionnées
+      	:m_pautExcel>>Selection>>Merge()
+      faIRE
+      	:msgerreur(<§$000f§>,ExceptionInfo())
+      	retour
+      FIN
+      
+     type : 458752
+   -
+     name : Graisse
+     procedure_id : 4241254576833891160
+     type_code : 12
+     code : |1+
+      // Résumé : Définit les paramètres de police pour la sélection en cours
+      // Syntaxe :
+      // Graisse ( [<nGras> [, <nItalique> [, <nSouligne>]]])
+      //
+      // Paramètres :
+      // 	nGras : La graisse : "" -> ne fait rien, -1 -> permute d'un état à l'autre, 0 -> met l'état à faux, 1 -> met l'état à vrai
+      // 	nItalique : L'italique : "" -> ne fait rien, -1 -> permute d'un état à l'autre, 0 -> met l'état à faux, 1 -> met l'état à vrai
+      // 	nSouligne : Le souligné : "" -> ne fait rien, -1 -> permute d'un état à l'autre, 0 -> met l'état à faux, 1 -> met l'état à vrai
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure Graisse(nGras="", nItalique="", nSouligne="")
+      
+      // on vérifie la sélection
+      quand exception dans
+      	:m_pautExcel>>Selection
+      FAIRE
+      	info(<§$0004§>)
+      	retour
+      FIN
+      
+      quand exception dans
+      	// gras
+      	selon nGras
+      	    cas 1
+      			:m_pautExcel>>Selection>>Font>>Bold = vrai
+      		cas 0
+      			:m_pautExcel>>Selection>>Font>>Bold = faux
+      		cas -1
+      			// on permute
+      			si :m_pautExcel>>Selection>>Font>>Bold = vrai alors
+      				:m_pautExcel>>Selection>>Font>>Bold = faux
+      			sinon
+      				:m_pautExcel>>Selection>>Font>>Bold = vrai
+      			fin			
+      	fin
+      	
+      	// Italique
+      	selon nItalique
+      	    cas 1
+      			:m_pautExcel>>Selection>>Font>>Italic = vrai
+      		cas 0
+      			:m_pautExcel>>Selection>>Font>>Italic = faux
+      		cas -1
+      			// on permute
+      			si :m_pautExcel>>Selection>>Font>>Italic = vrai alors
+      				:m_pautExcel>>Selection>>Font>>Italic = faux
+      			sinon
+      				:m_pautExcel>>Selection>>Font>>Italic = vrai
+      			fin			
+      	fin
+      	
+      	// Soulignement
+      	selon nSouligne
+      	    cas 1
+      			:m_pautExcel>>Selection>>Font>>Underline = 2 // xlUnderlineStyleSingle
+      		cas 0
+      			:m_pautExcel>>Selection>>Font>>Underline = 1 // xlUnderlineStyleNone
+      		cas -1
+      			// on permute
+      			si :m_pautExcel>>Selection>>Font>>Underline = 2 alors
+      				:m_pautExcel>>Selection>>Font>>Underline = 1 // xlUnderlineStyleNone
+      			sinon
+      				:m_pautExcel>>Selection>>Font>>Underline = 2 // xlUnderlineStyleSingle
+      			fin			
+      	fin
+      
+      faire
+      	:msgerreur(<§$0010§>,ExceptionInfo())
+      	retour
+      fin
+     type : 458752
+   -
+     name : HauteurAuto
+     procedure_id : 4241254578727619556
+     type_code : 12
+     code : |1-
+      // Résumé : Ajuste la hauteur de la ligne
+      // Syntaxe :
+      // HauteurAuto ( [<nLigne>])
+      //
+      // Paramètres :
+      // 	nLigne : Ligne à ajuster (facultatif). Si elle n'est pas précisée, c'est la sélection en cours.
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure HauteurAuto(nLigne="")
+      
+      si nLigne<>"" alors
+      	// on sélectionne la ligne passée en paramètre
+      	:SelectionnerCellules(nLigne)
+      fin
+      
+      // on vérifie la sélection
+      quand exception dans
+      	:m_pautExcel>>Selection
+      FAIRE
+      	info(<§$0011§>)
+      	retour
+      FIN
+      
+      quand exception dans 
+      	// Redimensionnement automatique de la hauteur des lignes
+      	:m_pautExcel>>Selection>>Rows>>AutoFit()
+      faIRE
+      	:msgerreur(<§$0012§>,exceptioninfo())
+      	retour
+      fIN
+     type : 458752
+   -
+     name : HauteurLigne
+     procedure_id : 4241254578563517452
+     type_code : 12
+     code : |1+
+      // Résumé : Change la hauteur de la ligne
+      // Syntaxe :
+      // HauteurLigne (<nTaille> [, <nLigne>])
+      //
+      // Paramètres :
+      // 	nTaille : Hauteur désirée
+      // 	nLigne : Ligne dont on veut changer la hauteur (facultatif). Si elle n'est pas précisée, ce sera la sélection en cours
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure HauteurLigne(nTaille, nLigne="")
+      
+      
+      si nLigne<>"" alors
+      	:SelectionnerCellules(nLigne)
+      FIN
+      
+      // on vérifie la sélection
+      quand exception dans
+      	:m_pautExcel>>Selection
+      FAIRE
+      	info(<§$0004§>)
+      	retour
+      FIN
+      
+      quand exception dans
+      	// on modifie la hauteur de la ligne passée en paramètre
+      	:m_pautExcel>>Selection>>RowHeight = nTaille
+      faire
+      	:msgerreur(<§$0012§>,ExceptionInfo())
+      	retour
+      fin
+      
+     type : 458752
+   -
+     name : Imprimer
+     internal_properties : CAAAAAgAAACTvPPnqDacV/Og/p6fanIi07ETqijbsqYewcBjEPnQKs17cg6zYRq22RLRrNnCMhGV5QhaHy9CT6xyX8210kB8mgKsAWyvw+zb04mwY3TUGTpmOFQGeL7oBIWlS96ncYgC7ryHAb4H
+     procedure_id : 4241254578227973162
+     type_code : 12
+     code : |1+
+      // Résumé : Imprime le document actif
+      // Syntaxe :
+      // Imprimer ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure Imprimer()
+      
+      QUAND EXCEPTION dans
+      	// On appelle la fonction d'impression de Excel
+      	:m_pautExcel>>ActiveWindow>>SelectedSheets>>PrintOut(1)
+      faire
+      	:msgerreur(<§$0013§>,ExceptionInfo())
+      	RETOUR
+      FIN
+     type : 458752
+   -
+     name : InsérerUneColonne
+     procedure_id : 4241254578571643966
+     type_code : 12
+     code : |1+
+      // Résumé : Insérer une colonne
+      // Syntaxe :
+      // InsérerUneColonne ( [<sColonne>])
+      //
+      // Paramètres :
+      // 	sColonne : Colonne à sélectionner avant d'insérer (facultatif). Si elle n'est pas précisée, c'est la colonne déjà sélectionnée.
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure InsérerUneColonne(sColonne="")
+      
+      si sColonne<>"" alors
+      	// Sélection de la colonne
+      	:SelectionnerCellules(sColonne)
+      fin
+      
+      // on vérifie la sélection
+      quand exception dans
+      	:m_pautExcel>>Selection
+      FAIRE
+      	info(<§$0014§>)
+      	retour
+      FIN
+      
+      quand exception dans
+      	// Insertion de la colonne
+      	:m_pautExcel>>Selection>>Insert(-4161) // xlToRight
+      fAIRE
+      	:msgerreur(<§$0015§>,ExceptionInfo())
+      	retour
+      FIN
+     type : 458752
+   -
+     name : InsererUneLigne
+     procedure_id : 4241254577158491228
+     type_code : 12
+     code : |1+
+      // Résumé : Insérer une ligne
+      // Syntaxe :
+      // InsererUneLigne ( [<sLigne>])
+      //
+      // Paramètres :
+      // 	sLigne : Ligne à sélectionner avant d'insérer (facultatif). Si elle n'est pas précisée, c'est la ligne déjà sélectionnée.
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure InsérerUneLigne(sLigne="")
+      
+      
+      si sLigne<>"" alors
+      	// sélection de la ligne
+      	:SelectionnerCellules(sLigne)
+      fin
+      
+      // on vérifie la sélection
+      quand exception dans
+      	:m_pautExcel>>Selection
+      FAIRE
+      	info(<§$0011§>)
+      	retour
+      FIN
+      
+      quand exception dans
+      	// insertion de la ligne
+      	:m_pautExcel>>Selection>>Insert(-4121) // xlDown
+      FAIRE
+      	:msgerreur(<§$0016§>,ExceptionInfo())	
+      	retour
+      FIN
+      
+     type : 458752
+   -
+     name : LargeurAuto
+     procedure_id : 4241254577845701754
+     type_code : 12
+     code : |1+
+      // Résumé : Ajuste la largeur de la colonne
+      // Syntaxe :
+      // LargeurAuto ( [<sColonne>])
+      //
+      // Paramètres :
+      // 	sColonne : Colonne à sélectionner (facultatif). Si elle n'est pas précisée, c'est la colonne déjà sélectionnée.
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure LargeurAuto(sColonne="")
+      
+      si sColonne<>"" alors
+      	// on sélectionne la ligne passée en paramètre
+      	:SelectionnerCellules(sColonne)
+      fin
+      
+      // on vérifie la sélection
+      quand exception dans
+      	:m_pautExcel>>Selection
+      FAIRE
+      	info(<§$0014§>)
+      	retour
+      FIN
+      
+      quand exception dans
+      	// Redimensionnement automatique de la largeur des colonnes
+      	:m_pautExcel>>Selection>>Columns>>AutoFit()
+      FAIRE
+      	:msgerreur(<§$0017§>,exceptioninfo())
+      	retour
+      FIN
+      
+     type : 458752
+   -
+     name : LargeurColonne
+     procedure_id : 4241254577988373666
+     type_code : 12
+     code : |1+
+      // Résumé : Change la largeur de la colonne
+      // Syntaxe :
+      // LargeurColonne (<nLargeur> [, <sColonne>])
+      //
+      // Paramètres :
+      // 	nLargeur : Largeur désirée
+      // 	sColonne : Colonne dont on veut changer la largeur (facultatif). Si elle n'est pas précisée, ce sera la sélection en cours
+      // Valeur de retour :
+      // 	Aucune
+      
+      procédure LargeurColonne(nLargeur, sColonne="")
+      
+      
+      si sColonne<>"" alors
+      	:SelectionnerCellules(sColonne)
+      FIN
+      
+      // on vérifie la sélection
+      quand exception dans
+      	:m_pautExcel>>Selection
+      FAIRE
+      	info(<§$0014§>)
+      	retour
+      FIN
+      
+      quand exception dans
+      	// on redimensionne la colonne
+      	:m_pautExcel>>Selection>>ColumnWidth = nLargeur
+      faire
+      	:msgerreur(<§$0017§>,exceptioninfo())
+      	retour
+      fin
+     type : 458752
+   -
+     name : MasquerColonne
+     internal_properties : CAAAAAgAAAC/+a7lFZJ4ImtAa46gq1gpR1HEUMgRQ19rlrcM1PEXr3WApjTzvCFhHL/vsFxqPQ6briIcIBisXqxDckceItBqEztu/dvW+rqS9GzmFJS6wKGT0tWYTdj5fkZPpo17yTq7/9mrCP/2HtDiA1g=
+     procedure_id : 4241254578051484864
+     type_code : 12
+     code : |1+
+      // Résumé : Masque ou rend visible une colonne
+      // Syntaxe :
+      // MasquerColonne ( [<sColonne> [, <bEtat>]])
+      //
+      // Paramètres :
+      // 	sColonne : Colonne à masquer ou à rendre visible (facultatif). Si elle n'est pas précisée, c'est la sélection en cours.
+      // 	bEtat (valeur par défaut=1) : Etat désiré (masquer ou rendre visible) : Vrai pour masquer, Faux pour rendre visible
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure MasquerColonne(sColonne="", bEtat=vrai)
+      
+      si sColonne<>"" alors
+      	// on sélectionne la colonne voulue
+      	:SelectionnerCellules(sColonne)
+      fin
+      
+      // on vérifie la sélection
+      quand exception dans
+      	:m_pautExcel>>Selection
+      FAIRE
+      	info(<§$0014§>)
+      	retour
+      FIN
+      
+      quand exception dans
+      	// on change son état
+      	si bEtat alors
+      		:m_pautExcel>>Selection>>EntireColumn>>Hidden = vrai
+      	sinon
+      		:m_pautExcel>>Selection>>EntireColumn>>Hidden = faux
+      	fin
+      faire
+      	:msgerreur(<§$0018§>,ExceptionInfo())
+      	retour
+      fin
+     type : 458752
+   -
+     name : MasquerLigne
+     internal_properties : CAAAAAgAAADn0eYtSVpggpswy14YY/AZ34E0YNhRMwejnu9k1AGH19VYDuz7BCmRrL+PgBQiVY7jHqKswBiYWiAvVntqRsRmj6e6KYcapobW8CCaIJi+DM1f3vGUUfTlYnIDysk/jbbnS7VnJOMixogq24A=
+     procedure_id : 4241254577624976626
+     type_code : 12
+     code : |1+
+      // Résumé : Masque ou rend visible une ligne
+      // Syntaxe :
+      // MasquerLigne ( [<sLigne> [, <bEtat>]])
+      //
+      // Paramètres :
+      // 	sLigne : Ligne à masquer ou à rendre visible (facultatif). Si elle n'est pas précisée, c'est la sélection en cours.
+      // 	bEtat (valeur par défaut=1) :  Etat désiré (masquer ou rendre visible) : Vrai pour masquer, Faux pour rendre visible
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure MasquerLigne(sLigne="", bEtat=vrai)
+      
+      
+      si sLigne<>"" alors
+      	// on sélectionne la colonne voulue
+      	:SelectionnerCellules(sLigne)
+      fin
+      
+      // on vérifie la sélection
+      quand exception dans
+      	:m_pautExcel>>Selection
+      FAIRE
+      	info(<§$0011§>)
+      	retour
+      FIN
+      
+      quand exception dans
+      	// on change son état
+      	si bEtat alors
+      		:m_pautExcel>>Selection>>EntireRow>>Hidden = vrai
+      	sinon
+      		:m_pautExcel>>Selection>>EntireRow>>Hidden = faux
+      	fin
+      faire
+      	:msgerreur(<§$0019§>,exceptioninfo())
+      	retour
+      fin
+     type : 458752
+   -
+     name : NouveauDoc
+     procedure_id : 4241254578629512534
+     type_code : 12
+     code : |1+
+      // Résumé : Crée un nouveau document
+      // Syntaxe :
+      // NouveauDoc ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure NouveauDoc()
+      
+      quand exception dans
+      	//Ajouter un classeur
+      	:m_pautExcel>>Workbooks>>Add()
+      FAIRE
+      	:msgerreur(<§$001a§>,exceptioninfo())
+      	retour
+      FIN
+      
+      // il n'y a pas de classeur en cours
+      :m_sClasseurEnCours=""
+     type : 458752
+   -
+     name : nTypeGraphe
+     internal_properties : CAAAAAgAAAATPHNnKja0nwd8dv7LUoqST8U3MkQj8l5CHXBjJBlA+vk/9lYnmbLG3f45pOUCepHJ6XzEaVms9QYQ/V/zbMKOtBiqmwaJ7drloQ8qgbZuk0ycxt7QGiBOvstjxQwBs2IEbDwHgT6H
+     procedure_id : 4241254578735877482
+     type_code : 12
+     code : |1+
+      // Résumé : Renvoie la constante correspondant au type de graphe désiré
+      // Syntaxe :
+      // [ <Résultat> = ] nTypeGraphe (<sType>)
+      //
+      // Paramètres :
+      // 	sType : type de graphe dont on veut la constante
+      // Valeur de retour :
+      // 	entier : Constante Excel correspondant à un type de graphe
+      
+      Procédure nTypeGraphe(sType)
+      
+      
+      nConstGraphe est un entier
+      
+      selon sType
+      	cas "HISTO"
+      		nConstGraphe = 51 // xlColumnClustered		
+      	cas "COURBE"
+      		nConstGraphe = 65 // xlLineMarkers
+      	CAS "SECTEUR"
+      		nConstGraphe = 5 // xlPie
+      fin
+      
+      renvoyer nConstGraphe
+      
+     type : 458752
+   -
+     name : nVersionOffice
+     internal_properties : CAAAAAgAAAA9OAIWVoQSTmaUXHo6uQpVhngK8WQsgHMHuaklLZ6h+iLRCrbk50GTsWNwvntJVCs4/mQqeKh5IsxmfDCOBP7C8c8DBuVd+nQSVTuNqlKwsZ9D6UtSqwnVf4iwcrun8ZkKz8imdfh1oaF/yrftI727ROH/c0BzpXwU
+     procedure_id : 4241254577499999634
+     type_code : 12
+     code : |1+
+      // Résumé : Teste la présence d'un logiciel Office (Word, Excel ...),  et recherche sa version la plus récente
+      // Syntaxe :
+      // [ <Résultat> = ] nVersionOffice (<sProgramme>)
+      //
+      // Paramètres :
+      // 	sProgramme : <indiquez ici le rôle de sProgramme>
+      // Valeur de retour :
+      // 	entier : 0 si le logiciel n'est pas trouvé, son numéro de version s'il est trouvé
+      
+      Procédure nVersionOffice(sProgramme)
+      
+      sCle, sSousCle SONT DES CHAINES
+      nVersion EST UN entier = 0
+      
+      // on teste la présence d'Office
+      sCle = RegistrePremièreSousClé("HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\")
+      
+      // si Office n'est pas présent sur la machine, Word ne peut pas être présent
+      SI sCle~="" ALORS RENVOYER 0
+      
+      // si Office est présent sur la machine, on teste la présence du programme
+      TANTQUE sCle<>""
+      	// Première sous clé du programme
+      	sSousCle = RegistrePremièreSousClé(sCle+"\"+sProgramme+"\")
+      	// si le programme est trouvé, on récupère sa version
+      	SI sSousCle<>"" ALORS
+      		// on ne conserve que la version la plus récente
+      		nVersion = Max(val(ExtraitChaîne(sCle,1,"\",DepuisFin)),nVersion)		
+      	FIN
+      	// Clé suivante
+      	sCle = RegistreCléSuivante(sCle)
+      FIN
+      
+      RENVOYER nVersion
+      
+     type : 458752
+   -
+     name : OuvrirClasseur
+     internal_properties : CAAAAAgAAAAYrE7ZUSixr9JeMN9wi85FBN3tcPw8fzXCeaUrTBu62cWRxLlZw12TH0xELZO7VPsna3Aabinsgn+wfUG9ZglCX3bE3fPma/7g5w6n8G6YTIu3Zd2N2z/oHH6T8/9zep/v/dyQRS0GDQ6TfevUnpzOUWPeZZZYF88yO92dlM+VNNHlg6301tFQ
+     procedure_id : 4241254578823106039
+     type_code : 12
+     code : |1+
+      // Résumé : Ouvre un classeur Excel
+      // Syntaxe :
+      // OuvrirClasseur ( [<sClasseur>])
+      //
+      // Paramètres :
+      // 	sClasseur : Classeur à ouvrir (facultatif). S'il n'est pas précisé, un sélecteur s'ouvre
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure OuvrirClasseur(sClasseur="")
+      
+      si sClasseur="" alors
+      	// Sélection ou création d'un fichier Word
+      	sClasseur=fSélecteur("","",<§$001b§>,...
+      							<§$000c§>+TAB+"*.XLS","XLS",...
+      							FSelouvre)
+      
+      	// Aucun fichier sélectionné
+      	SI sClasseur="" ALORS RETOUR
+      fin
+      
+      quand exception dans
+      	// on ouvre le classeur demandé
+      	:m_pautExcel>>Workbooks>>Open(sClasseur)
+      FAIRE
+      	:msgerreur(<§$001c§>,exceptioninfo())
+      	retour
+      FIN
+      
+      // ce document devient le document en cours
+      :m_sClasseurEnCours = sClasseur
+      
+     type : 458752
+   -
+     name : Police
+     procedure_id : 4241254577010839091
+     type_code : 12
+     code : |1+
+      // Résumé : Modifie la police
+      // Syntaxe :
+      //Police ( [<sPlage> [, <sPolice> [, <nTaille> [, <bGras> [, <bItalique> [, <bSouligne> [, <sCouleurTexte> [, <sCouleurFond>]]]]]]]])
+      //
+      // Paramètres :
+      //	sPlage (valeur par défaut="") : plage de cellules dont on veut modifier la police (facultatif). Si elle n'es pas précisée, c'est la sélection courante
+      //	sPolice (valeur par défaut="") : Police désirée (facultatif)
+      //	nTaille (valeur par défaut=0) : Taille de police désirée (facultatif)
+      //	bGras (valeur par défaut="") : Définit la graisse de la police (facultatif)
+      //	bItalique (valeur par défaut="") : Définit l'italique de la police (facultatif)
+      //	bSouligne (valeur par défaut="") : Définit le souligné de la police (facultatif)
+      //	sCouleurTexte (valeur par défaut=0) : Couleur du texte (facultatif)
+      //	sCouleurFond (valeur par défaut="") : Couleur de fond (facultatif)
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure Police(sPlage="", sPolice="", nTaille=0 ,bGras="", bItalique="", bSouligne="", nCouleurTexte=-1, nCouleurFond=-1)
+      
+      
+      si sPlage<>"" alors
+      	// on sélectionne la plage de cellules désirée
+      	:SelectionnerCellules(sPlage)
+      fin
+      
+      // on vérifie la sélection
+      quand exception dans
+      	:m_pautExcel>>Selection
+      FAIRE
+      	info(<§$0004§>)
+      	retour
+      FIN
+      
+      quand exception dans
+      	// Police désirée
+      	si sPolice<>"" alors
+      		:m_pautExcel>>Selection>>Font>>Name = sPolice
+      	fin
+      	
+      	// Taille de la police désirée
+      	si nTaille>0 alors
+      		:m_pautExcel>>Selection>>Font>>Size = nTaille
+      	fin
+      faire
+      	:msgerreur(<§$001d§>,exceptioninfo())
+      	retour
+      fin
+      
+      // graisse
+      :Graisse(bGras, bItalique, bSouligne)
+      
+      
+      
+      // couleurs de fond et de texte
+      :Couleur(nCouleurTexte, nCouleurFond, sPlage)
+      
+     type : 458752
+   -
+     name : Quitter
+     internal_properties : CAAAAAgAAADNIwf5Dh4eB04PUHFooDK8pu/FgTRZNlH2GnqVOLqJru5e7RPykFF89e/GUtTPNYCLh5L6lcU/Dq8TbmlYyxeuBRNC/m5KBbH/YUeV8mKZl3x7HjNwL5mj/VY66SljpRykQbmG56mYcqu7VmleEnvPrD/WuXI7FWaNeasCzUvwVipZYi9i6osP5Q==
+     procedure_id : 4241254577007431299
+     type_code : 12
+     code : |1+
+      // Résumé : Quitte Excel
+      // Syntaxe :
+      // Quitter ()
+      //
+      // Paramètres :
+      //	Aucun
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure quitter()
+      
+      // pour éviter que Excel se mette en erreur
+      QUAND EXCEPTION dans
+      	// on quitte Excel
+      	:m_pautExcel>>Quit()
+      faire
+      	:msgerreur(<§$001e§>,exceptioninfo())
+      	retour
+      FIN
+     type : 458752
+   -
+     name : RenommerFeuille
+     internal_properties : CAAAAAgAAADrqpyH+347pC5uvoWA4lyVx3Mi702VOvFzJuwEJP956SJ5bNZ9BEew0VgJNqDKrnXHEhr8Ku3lqNGaNTLhPAlV4auR25svtDt+CQU/47Kn9g3JXwSTit+BwTF7WMgrGqPQVKz4TA==
+     procedure_id : 4241254578434739863
+     type_code : 12
+     code : |1+
+      // Résumé : Renomme une feuille Excel
+      // Syntaxe :
+      // RenommerFeuille (<sNouveauNom> [, <sAncienNom>])
+      //
+      // Paramètres :
+      // 	sNouveauNom : Nouveau nom de la feuille
+      // 	sAncienNom : Ancien nom de la feuille (facultatif -> feuille en cours)
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure RenommerFeuille(sNouveauNom, sAncienNom="")
+      
+      quand exception dans
+      	si sAncienNom<>"" alors
+      		// Renomme la feuille de calcul <sAncienNom> en <sNouveauNom>
+      		:m_pautExcel>>Sheets(sAncienNom)>>Name=sNouveauNom
+      	sinon
+      		// Renomme la feuille de calcul active en <sNouveauNom>
+      		:m_pautExcel>>ActiveSheet>>Name=sNouveauNom
+      	fin
+      FAIRE
+      	:msgerreur(<§$001f§>,exceptioninfo())	
+      	retour
+      FIN
+     type : 458752
+   -
+     name : SelectionnerCellules
+     procedure_id : 4241254577031024319
+     type_code : 12
+     code : |1-
+      // Résumé : Sélectionne une cellule ou une plage de cellules
+      // Syntaxe :
+      // SelectionnerCellules (<sCellules>)
+      //
+      // Paramètres :
+      // 	sCellules : Plage de cellules à sélectionner
+      // ex: A1 pour une seule cellule
+      // ex: A1:B2  pour une plage de cellules
+      // ex: A pour une colonne
+      // ex: A:C pour une plage de colonnes
+      // ex: 2 pour une ligne
+      // ex: 2:5 pour une plage de lignes
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure SelectionnerCellules(sCellules)
+      
+      sCellule, sLigne1, sLigne2, sColonne1, sColonne2, sCh sont des chaines
+      i est un entier
+      
+      sPlage  est une chaine = sCellules
+      
+      // si on reçoit A1, on le formate en A1:A1
+      si position(sPlage,":")=0 alors
+      	sPlage = sPlage+":"+sPlage
+      FIN
+      
+      // première cellule
+      sCellule = extraitchaine(sPlage,1,":")
+      pour i=1 _à_ taille(sCellule)
+      	sCh = sCellule[[i]] 
+      	si numeriqueverschaine(val(sCh))~=sCh alors
+      		sLigne1 += sCh
+      	sinon
+      		sColonne1 += sCh
+      	fin
+      FIN
+      
+      // deuxième cellule
+      sCellule = extraitchaine(sPlage,2,":")
+      pour i=1 _à_ taille(sCellule)
+      	sCh = sCellule[[i]] 
+      	si numeriqueverschaine(val(sCh))~=sCh alors
+      		sLigne2 += sCh
+      	sinon         
+      		sColonne2 += sCh
+      	fin
+      FIN
+      
+      // Sélection de la plage
+      QUAND EXCEPTION dans
+      	// si c'est une plage de lignes
+      	si (sColonne1~="" et sColonne2~="") alors
+      	    :m_pautExcel>>Rows(sLigne1+":"+sLigne2)>>Select()
+      		retour
+      	FIN
+      	
+      	// si c'est une plage de colonnes
+      	si (sLigne1~="" et sLigne2~="") alors
+      		:m_pautExcel>>Columns(sColonne1+":"+sColonne2)>>Select()
+      		retour
+      	FIN
+      	
+      	// si c'est une plage de cellules
+      	si (sLigne1<>"" et sLigne2<>"" et sColonne1<>"" et sColonne2<>"") alors
+      		:m_pautExcel>>Range(sColonne1+sLigne1+":"+sColonne2+sLigne2)>>Select()
+      	sinon
+      		info(<§$0020§>)	
+      	fin
+      
+      faire
+      	:msgerreur(<§$0021§>,exceptionInfo())
+      	RETOUR
+      fin
+     type : 458752
+   -
+     name : SelectionnerFeuille
+     internal_properties : CAAAAAgAAADrqpyHO/67pK5uPgUA4twVR/Mib02VOnFzpuwEJH956SJ57Nb9hMewUViJtiDKLvVHklo86i2l6BHa9fKhfEmVoWvRG1tvdHu+ScX/o/LnNs2Jn0RTyp/BAXE7GIhrWuPQVKz4TA==
+     procedure_id : 4241254582357987257
+     type_code : 12
+     code : |1+
+      // Résumé : Sélectionne une feuille Excel
+      // Syntaxe :
+      // SelectionnerFeuille (<sFeuille>)
+      //
+      // Paramètres :
+      // 	sFeuille : Nom de la feuille à sélectionner
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure SelectionnerFeuille(sFeuille)
+      
+      quand exception dans
+      	//on sélectionne la feuille demandée
+      	:m_pautExcel>>Sheets(sFeuille)>>Select()
+      fAIRE
+      	:msgerreur(<§$0022§>,exceptioninfo())
+      	retour
+      FIN
+     type : 458752
+   -
+     name : sLireValeur
+     procedure_id : 4241254582095974349
+     type_code : 12
+     code : |1+
+      // Résumé : Renvoie le contenu de la cellule 
+      // Syntaxe :
+      // [ <Résultat> = ] sLireValeur (<sCellule>)
+      //
+      // Paramètres :
+      // 	sCellule : Cellule dont on veut lire le contenu
+      // Valeur de retour :
+      // 	Type indéterminé : Contenu de la cellule
+      
+      Procédure sLireValeur(sCellule)
+      
+      
+      quand exception dans
+      	renvoyer :m_pautExcel>>Range(sCellule)>>Value
+      faire
+      	:msgerreur(<§$0023§>,ExceptionInfo())
+      	renvoyer ""
+      FIN
+      
+     type : 458752
+   -
+     name : SupprimerFeuille
+     internal_properties : CAAAAAgAAACratxHK947xO4OHmWAojw1BzPCz421upHzxkykJL/ZCWK5THZ9pIfQUfgplmCKDpVHkspM+v11OOEKRcJRDDnlMftBayv/hAsOOdVP04KXhl0Zj1Rjmm8RUSGLKPj7CvOQlGy4jA==
+     procedure_id : 4241254582679506923
+     type_code : 12
+     code : |1+
+      // Résumé : Supprime une feuille Excel
+      // Syntaxe :
+      // SupprimerFeuille ( [<sNomFeuille>])
+      //
+      // Paramètres :
+      // 	sNomFeuille : Nom de la feuille à supprimer (facultatif-> feuille en cours)
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure SupprimerFeuille(sNomFeuille="")
+      
+      // On sélectionne la feuille désirée
+      si sNomFeuille<>"" alors
+      	:SelectionnerFeuille(sNomFeuille)
+      FIN
+      
+      quand exception dans
+      	// Suppression de la feuille en cours du classeur
+      	:m_pautExcel>>ActiveWindow>>SelectedSheets>>Delete()
+      faire
+      	:msgerreur(<§$0024§>,ExceptionInfo())
+      	retour
+      fin
+      
+     type : 458752
+   -
+     name : TrierColonne
+     internal_properties : CAAAAAgAAACzfRMzt05PtIJ+clmMViAJQ3NCi8EdpiG3jugYIMvVFcbRtDLJlJMIrSDNCgyGcqErUiwuwGvnptvES0zfOgOfe00jvbnV3tHAS8PZWThhmF8bOc7ZSBG3C/uxaj7x3M0KHk+glA==
+     procedure_id : 4241254589924251332
+     type_code : 12
+     code : |1+
+      // Résumé : Trie une colonne
+      // Syntaxe :
+      // TrierColonne ( [<sColonne> [, <sOrdre>]])
+      //
+      // Paramètres :
+      // 	sColonne : Nom de la colonne à trier ex : B
+      // 	sOrdre (valeur par défaut="ASC") : Ordre de tri : ASC ou DESC
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure TrierColonne(sColonne="", sOrdre="ASC")
+      
+      // on sélectionne la colonne
+      si sColonne<>"" alors
+      	:SelectionnerCellules(sColonne)
+      fin
+      
+      // constante de Excel pour ordre
+      nOrdre est un entier
+      si sOrdre~="DESC" alors
+      	nOrdre=2
+      sinon
+      	nOrdre=1
+      FIN
+      
+      // on vérifie la sélection
+      quand exception dans
+      	:m_pautExcel>>Selection
+      FAIRE
+      	info(<§$0014§>)
+      	retour
+      FIN
+      
+      quand exception dans
+      	// tri
+      	:m_pautExcel>>Selection>>Sort(:m_pautExcel>>Selection, nOrdre)
+      FAIRE
+      	:msgerreur(<§$0025§>,exceptioninfo())
+      	retour	
+      FIN
+      
+     type : 458752
+   -
+     name : EstVisible
+     internal_properties : CAAAAAgAAACtjcdnPTSzYeM8O2bAqZND8A+lhe8DAlsiP1yiFk9Tfd8n4Kc6nW4WK2/cIAIEmfxmBSP/DkPh0BG+Rqy+3UzI/B5COM87WPc8cVhMjThpfFAVc7ob6pJtlt5BnsK7AzswTfClEnYHgBQbtcIDbn04Bpd3ultm7jDiAWRlDMvuYwp9rSim4Tv8baGr
+     procedure_id : 4241254590129313536
+     type_code : 12
+     code : |1-
+      // Résumé : Définit l'état visible ou invisible de Excel 
+      // Syntaxe :
+      //EstVisible ( [<bEtat>])
+      //
+      // Paramètres :
+      //	bEtat (valeur par défaut=1) : Vrai : il sera visible, faux, il sera invisible
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure EstVisible(bEtat=Vrai)
+      
+      quand exception dans
+      	si bEtat alors
+      		// Excel est visible
+      		:m_pautExcel>>visible=vrai
+      	sinon
+      		// Excel n'est pas visible
+      		:m_pautExcel>>visible=faux
+      	fin
+      FAIRE
+      	:msgerreur(<§$0026§>,exceptioninfo())	
+      	retour
+      FIN
+     type : 458752
+   -
+     name : MsgErreur
+     procedure_id : 1749265485976300792
+     type_code : 12
+     code : |1+
+      // Résumé : Gestion des erreurs
+      // Syntaxe :
+      // MsgErreur ([...])
+      //
+      // Paramètres :
+      // 	<*> : Les lignes d'erreur
+      // Valeur de retour :
+      // 	Aucune
+      
+      Procédure msgerreur(*)
+      
+      si EnModeTest() alors
+      	WL.erreur(MesParamètres)
+      FIN
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+resources :
+ string_res :
+  identifier : 0x3be2b4383c30ba0a
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : "Excel n'a pas été installé sur cette machine, vous ne pouvez pas utiliser cette classe !"
+      en-GB : "Excel n'a pas été installé sur cette machine, vous ne pouvez pas utiliser cette classe !"
+     index : 0
+   -
+     text :
+      fr-FR : "Pour utiliser cette classe, vous devez avoir Excel 97 ou supérieur !"
+      en-GB : "Pour utiliser cette classe, vous devez avoir Excel 97 ou supérieur !"
+     index : 1
+   -
+     text :
+      fr-FR : Impossible d'ajouter une feuille au classeur.
+      en-GB : Impossible d'ajouter une feuille au classeur.
+     index : 2
+   -
+     text :
+      fr-FR : Impossible d'ajouter le graphe.
+      en-GB : Impossible d'ajouter le graphe.
+     index : 3
+   -
+     text :
+      fr-FR : Vous devez d'abord sélectionner une cellule.
+      en-GB : Vous devez d'abord sélectionner une cellule.
+     index : 4
+   -
+     text :
+      fr-FR : Impossible d'appliquer l'alignement.
+      en-GB : Impossible d'appliquer l'alignement.
+     index : 5
+   -
+     text :
+      fr-FR : Impossible de modifier la couleur.
+      en-GB : Impossible de modifier la couleur.
+     index : 6
+   -
+     text :
+      fr-FR : Impossible de déplacer la feuille.
+      en-GB : Impossible de déplacer la feuille.
+     index : 7
+   -
+     text :
+      fr-FR : Impossible d'écrire la valeur.
+      en-GB : Impossible d'écrire la valeur.
+     index : 8
+   -
+     text :
+      fr-FR : Valider d'abord la saisie en cours avant d'enregistrer votre classeur.
+      en-GB : Valider d'abord la saisie en cours avant d'enregistrer votre classeur.
+     index : 9
+   -
+     text :
+      fr-FR : Impossible de sauver le classeur.
+      en-GB : Impossible de sauver le classeur.
+     index : 10
+   -
+     text :
+      fr-FR : Enregistrer sous...
+      en-GB : Enregistrer sous...
+     index : 11
+   -
+     text :
+      fr-FR : Document Excel (*.XLS)
+      en-GB : Document Excel (*.XLS)
+     index : 12
+   -
+     text :
+      fr-FR : Impossible de fermer le classeur.
+      en-GB : Impossible de fermer le classeur.
+     index : 13
+   -
+     text :
+      fr-FR : Impossible de modifier le format le format.
+      en-GB : Impossible de modifier le format le format.
+     index : 14
+   -
+     text :
+      fr-FR : Impossible de fusionner les cellules.
+      en-GB : Impossible de fusionner les cellules.
+     index : 15
+   -
+     text :
+      fr-FR : Impossible d'appliquer le style.
+      en-GB : Impossible d'appliquer le style.
+     index : 16
+   -
+     text :
+      fr-FR : Vous devez d'abord sélectionner une ligne.
+      en-GB : Vous devez d'abord sélectionner une ligne.
+     index : 17
+   -
+     text :
+      fr-FR : Impossible de modifier la hauteur.
+      en-GB : Impossible de modifier la hauteur.
+     index : 18
+   -
+     text :
+      fr-FR : Impossible d'imprimer le classeur.
+      en-GB : Impossible d'imprimer le classeur.
+     index : 19
+   -
+     text :
+      fr-FR : Vous devez d'abord sélectionner une colonne.
+      en-GB : Vous devez d'abord sélectionner une colonne.
+     index : 20
+   -
+     text :
+      fr-FR : Impossible d'insérer une colonne.
+      en-GB : Impossible d'insérer une colonne.
+     index : 21
+   -
+     text :
+      fr-FR : Impossible d'insérer une ligne.
+      en-GB : Impossible d'insérer une ligne.
+     index : 22
+   -
+     text :
+      fr-FR : Impossible de modifier la largeur.
+      en-GB : Impossible de modifier la largeur.
+     index : 23
+   -
+     text :
+      fr-FR : Impossible de masquer la colonne.
+      en-GB : Impossible de masquer la colonne.
+     index : 24
+   -
+     text :
+      fr-FR : Impossible de masquer la ligne.
+      en-GB : Impossible de masquer la ligne.
+     index : 25
+   -
+     text :
+      fr-FR : Impossible d'ajouter un classeur.
+      en-GB : Impossible d'ajouter un classeur.
+     index : 26
+   -
+     text :
+      fr-FR : Sélectionnez un document...
+      en-GB : Sélectionnez un document...
+     index : 27
+   -
+     text :
+      fr-FR : Impossible d'ouvrir le classeur.
+      en-GB : Impossible d'ouvrir le classeur.
+     index : 28
+   -
+     text :
+      fr-FR : Impossible de modifier la police.
+      en-GB : Impossible de modifier la police.
+     index : 29
+   -
+     text :
+      fr-FR : Impossible de fermer l'application.
+      en-GB : Impossible de fermer l'application.
+     index : 30
+   -
+     text :
+      fr-FR : Impossible de renommer la feuille.
+      en-GB : Impossible de renommer la feuille.
+     index : 31
+   -
+     text :
+      fr-FR : La plage précisée est incorrecte.
+      en-GB : La plage précisée est incorrecte.
+     index : 32
+   -
+     text :
+      fr-FR : Impossible de sélectionner la plage.
+      en-GB : Impossible de sélectionner la plage.
+     index : 33
+   -
+     text :
+      fr-FR : Impossible de sélectionner la feuille.
+      en-GB : Impossible de sélectionner la feuille.
+     index : 34
+   -
+     text :
+      fr-FR : Impossible de lire la valeur.
+      en-GB : Impossible de lire la valeur.
+     index : 35
+   -
+     text :
+      fr-FR : Impossible de supprimer la feuille.
+      en-GB : Impossible de supprimer la feuille.
+     index : 36
+   -
+     text :
+      fr-FR : Impossible de trier la colonne.
+      en-GB : Impossible de trier la colonne.
+     index : 37
+   -
+     text :
+      fr-FR : Impossible de rendre l'application (in)visible.
+      en-GB : Impossible de rendre l'application (in)visible.
+     index : 38
+custom_note :
+ internal_properties : CAAAAAgAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ

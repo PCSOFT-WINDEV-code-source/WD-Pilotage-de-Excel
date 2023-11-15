@@ -1,0 +1,114 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Pilotage de Excel
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Projet WD Pilotage de Excel
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Pilotage de Excel
+    internal_properties : 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
+    configuration_id : 15502608244474311554
+    type : 1
+    generation_name : WD Pilotage de Excel.exe
+    version :
+     version : VI200027
+     autoincrement_version : false
+    icon_filename : .\excel.ico
+    language : 1
+ elements :
+  identifier : 0x4ac381b4023059cc
+  elements :
+   -
+     name : ProceduresGlobales
+     identifier : 0x3da5a2a9109c549c
+     internal_properties : CAAAAAgAAAD/W9fL+KUNHijjtUYuYsSzI0z+Lp1fZ+S3k8vPh7llQ/Ef8jA2yjnxibAqlh7SriLqag==
+     physical_name : .\ProceduresGlobales.wdg
+     type : 7
+   -
+     name : FEN_AssistantExcel
+     identifier : 0x3da5a2a662aa546d
+     internal_properties : CAAAAAgAAACY9kBcaxAYw4+GaJmB1nXEnOnrw/psVpqv0YlJj5H77cMfjIbjZd4U7FNNq2tlHZN9hQ==
+     physical_name : .\FEN_AssistantExcel.wdw
+     type : 2
+   -
+     name : CExcel
+     identifier : 0x3da5a2aa798e54bb
+     internal_properties : CAAAAAgAAADBvTltWgcvwI6FU+C4HqqNzUow4P7JDk+2pKjUnr3ZxyHz2sisXNcP61JMtHx0DPzETA==
+     physical_name : .\cexcel.wdc
+     type : 4
+   -
+     name : FEN_Excel
+     identifier : 0x40fd539f016e39cb
+     internal_properties : CAAAAAgAAACoppCMO2BIUx9WOMlRuBkARMWTmy4n3KiyUkHK1VuxJ5lpSlgTNa5kPOPd21uVbWOttQ==
+     physical_name : .\FEN_Excel.wdw
+     type : 2
+   -
+     name : TEST_ProceduresGlobales
+     identifier : 0x42528550005ddd55
+     internal_properties : CAAAAAgAAACC+PouncpifcXArlPLBI8K9uv15bT2oOSnjx/raZcF0xHNwuCZryTapp0H8bEvyz2Hjw==
+     physical_name : .\TEST_ProceduresGlobales.wxt
+     type : 17
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Pilotage de Excel.ana\WD Pilotage de Excel.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAAB6oH0CfZNpHvTRRtAvalp+WA8KJnqcka5IcLnBuUYeTUMZw9IENMdbOq6xYYGkqG/wmM+swa8lq6VlHLXgrB7vfg==
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     code : |1+
+      
+      
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Pilotage de Excel
+     identifier : 0x4ac381b402365a87
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
